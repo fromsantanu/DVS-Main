@@ -87,46 +87,46 @@
 - [Policies promoting continuous education and skills development.](#)
 - [Role of adult education in fostering economic resilience.](#)
 
-## Economics
+## Part III - Economics
 ### 1. Development Economics
-- Theories and models of economic development.
-- Policy implications of different development strategies.
+- [Theories and models of economic development.](#)
+- [Policy implications of different development strategies.](#)
 
 ### 2. Poverty Alleviation and Economic Growth
-- Strategies for reducing poverty through economic policy.
-- Impact of economic growth on poverty reduction.
+- [Strategies for reducing poverty through economic policy.](#)
+- [Impact of economic growth on poverty reduction.](#)
 
 ### 3. Microeconomics of Development
-- The role of individual and household decision-making in development.
-- Microeconomic policies for empowering low-income populations.
+- [The role of individual and household decision-making in development.](#)
+- [Microeconomic policies for empowering low-income populations.](#)
 
 ### 4. Macroeconomic Policy and National Development
-- Fiscal and monetary policies for promoting economic stability.
-- Role of government intervention in economic development.
+- [Fiscal and monetary policies for promoting economic stability.](#)
+- [Role of government intervention in economic development.](#)
 
 ### 5. International Trade and Development
-- Impact of trade policies on national economic growth.
-- Strategies for leveraging international trade for development.
+- [Impact of trade policies on national economic growth.](#)
+- [Strategies for leveraging international trade for development.](#)
 
 ### 6. Rural Development and Agriculture
-- Economic policies to enhance agricultural productivity.
-- Rural development strategies for inclusive growth.
+- [Economic policies to enhance agricultural productivity.](#)
+- [Rural development strategies for inclusive growth.](#)
 
 ### 7. Urbanization and Economic Development
-- Role of urban planning in economic development.
-- Policies for managing the economic challenges of urbanization.
+- [Role of urban planning in economic development.](#)
+- [Policies for managing the economic challenges of urbanization.](#)
 
 ### 8. Sustainable Development and Environmental Economics
-- Integrating environmental sustainability into economic policy.
-- Economic analysis of environmental conservation efforts.
+- [Integrating environmental sustainability into economic policy.](#)
+- [Economic analysis of environmental conservation efforts.](#)
 
 ### 9. Labor Economics and Employment Policies
-- Role of labor markets in national development.
-- Employment policies for promoting inclusive economic growth.
+- [Role of labor markets in national development.](#)
+- [Employment policies for promoting inclusive economic growth.](#)
 
 ### 10. Globalization and Economic Policy
-- Impact of globalization on national economic policies.
-- Strategies for managing the economic effects of globalization.
+- [Impact of globalization on national economic policies.](#)
+- [Strategies for managing the economic effects of globalization.](#)
 
 ## Governance and Policy
 ### 1. Governance and Institutional Development
