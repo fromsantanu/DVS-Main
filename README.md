@@ -1,6 +1,10 @@
-# Developmental Studies: Comprehensive Topic List
+# Developmental Studies
 
 ---
+## Introduction to Developmental Studies
+- What is developmental Studies
+- Scope of this study
+
 ## Health
 ### 1. Public Health Policy and Management
 - Strategies for developing effective public health policies.
