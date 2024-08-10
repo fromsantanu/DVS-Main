@@ -2,90 +2,90 @@
 
 ---
 ## Introduction to Developmental Studies
-- What is developmental Studies
-- Scope of this study
+- [What is developmental Studies](#)
+- [Scope of this study](#)
 
-## Health
+## Part I - Health
 ### 1. Public Health Policy and Management
-- Strategies for developing effective public health policies.
-- Management of public health systems in developing countries.
+- [Strategies for developing effective public health policies.](#)
+- [Management of public health systems in developing countries.](#)
 
 ### 2. Epidemiology and Disease Control
-- Study of disease patterns and control measures in low-income regions.
-- Role of epidemiological research in shaping health policies.
+- [Study of disease patterns and control measures in low-income regions.](#)
+- [Role of epidemiological research in shaping health policies.](#)
 
 ### 3. Healthcare Systems and Policy
-- Comparative analysis of different healthcare systems.
-- Policy frameworks for strengthening healthcare delivery.
+- [Comparative analysis of different healthcare systems.](#)
+- [Policy frameworks for strengthening healthcare delivery.](#)
 
 ### 4. Global Health and Development
-- The impact of global health initiatives on national health outcomes.
-- International collaborations for addressing health challenges.
+- [The impact of global health initiatives on national health outcomes.](#)
+- [International collaborations for addressing health challenges.](#)
 
 ### 5. Healthcare Financing
-- Models of healthcare financing for sustainable health systems.
-- Role of insurance in increasing healthcare accessibility.
+- [Models of healthcare financing for sustainable health systems.](#)
+- [Role of insurance in increasing healthcare accessibility.](#)
 
 ### 6. Health Economics
-- Economic evaluation of health interventions.
-- Cost-benefit analysis of public health programs.
+- [Economic evaluation of health interventions.](#)
+- [Cost-benefit analysis of public health programs.](#)
 
 ### 7. Social Determinants of Health
-- Impact of social factors on health outcomes.
-- Policies addressing social inequalities in health.
+- [Impact of social factors on health outcomes.](#)
+- [Policies addressing social inequalities in health.](#)
 
 ### 8. Health Informatics
-- Role of health information systems in improving healthcare delivery.
-- Big data in public health research and policy formulation.
+- [Role of health information systems in improving healthcare delivery.](#)
+- [Big data in public health research and policy formulation.](#)
 
 ### 9. Environmental Health
-- The intersection of environmental factors and public health.
-- Policies for reducing health risks from environmental hazards.
+- [The intersection of environmental factors and public health.](#)
+- [Policies for reducing health risks from environmental hazards.](#)
 
 ### 10. Health and Human Rights
-- The role of human rights in shaping health policies.
-- Access to healthcare as a fundamental human right.
+- [The role of human rights in shaping health policies.](#)
+- [Access to healthcare as a fundamental human right.](#)
 
-## Education
+## Part II - Education
 ### 1. Education Policy and Planning
-- Strategies for effective education policy development.
-- Long-term planning for sustainable educational outcomes.
+- [Strategies for effective education policy development.](#)
+- [Long-term planning for sustainable educational outcomes.](#)
 
 ### 2. Curriculum Development and Reform
-- Designing curricula that align with national development goals.
-- Integrating vocational and technical education into mainstream curricula.
+- [Designing curricula that align with national development goals.](#)
+- [Integrating vocational and technical education into mainstream curricula.](#)
 
 ### 3. Education and Social Mobility
-- Role of education in promoting social equality.
-- Education policies aimed at reducing social stratification.
+- [Role of education in promoting social equality.](#)
+- [Education policies aimed at reducing social stratification.](#)
 
 ### 4. Teacher Training and Professional Development
-- Importance of teacher education for improving learning outcomes.
-- Policies for continuous professional development of educators.
+- [Importance of teacher education for improving learning outcomes.](#)
+- [Policies for continuous professional development of educators.](#)
 
 ### 5. Inclusive Education
-- Strategies for including marginalized groups in education systems.
-- Policies for accommodating students with special needs.
+- [Strategies for including marginalized groups in education systems.](#)
+- [Policies for accommodating students with special needs.](#)
 
 ### 6. Educational Technology and Innovation
-- Role of technology in enhancing education delivery.
-- Digital education policies and their impact on learning outcomes.
+- [Role of technology in enhancing education delivery.](#)
+- [Digital education policies and their impact on learning outcomes.](#)
 
 ### 7. Education and Gender Equality
-- Addressing gender disparities in education access and quality.
-- Policies promoting girls' education in developing nations.
+- [Addressing gender disparities in education access and quality.](#)
+- [Policies promoting girls' education in developing nations.](#)
 
 ### 8. Higher Education and National Development
-- The role of universities in driving national innovation and research.
-- Policies to strengthen higher education institutions.
+- [The role of universities in driving national innovation and research.](#)
+- [Policies to strengthen higher education institutions.](#)
 
 ### 9. Early Childhood Education
-- Importance of early childhood education in long-term development.
-- Policy initiatives for expanding access to early education.
+- [Importance of early childhood education in long-term development.](#)
+- [Policy initiatives for expanding access to early education.](#)
 
 ### 10. Lifelong Learning and Adult Education
-- Policies promoting continuous education and skills development.
-- Role of adult education in fostering economic resilience.
+- [Policies promoting continuous education and skills development.](#)
+- [Role of adult education in fostering economic resilience.](#)
 
 ## Economics
 ### 1. Development Economics
